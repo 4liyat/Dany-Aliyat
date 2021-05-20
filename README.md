@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dany-Aliyat
 - 👀 I’m interested in artificial inteligence and apps development.
 - 🌱 I’m currently learning Python, i would like be able to create programas and apps.
+     Currently i'm also learning data science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, i love read and create storys, rock music also works too.
 
