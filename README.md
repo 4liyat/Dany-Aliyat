@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dany-Aliyat
+- 👋 Hi, I’m @4liyat
 - 👀 I’m interested in artificial inteligence and apps development.
 - 🌱 I’m currently learning Python, i would like be able to create programas and apps.
      Currently i'm also learning data science.
